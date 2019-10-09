@@ -21,7 +21,7 @@ def softmax(Z):
 
 def sigmoid(Z):
     """
-    Implements the sigmoid activation in numpy
+    Implements the sigmoid activation in numpy.
     
     Arguments:
     Z -- numpy array of any shape
