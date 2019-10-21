@@ -6,6 +6,7 @@
 
 import numpy as np
 import math
+import csv
 
 def softmax(Z):
     """Compute the softmax of matrix Z"""
